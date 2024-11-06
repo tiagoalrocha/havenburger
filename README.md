@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -32,17 +32,25 @@
             background-color: #FF4B2B;
             padding: 20px 0;
             text-align: center;
-            
         }
 
         header h1 {
             color: #fff;
             font-size: 2.5em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        header h1 img {
+            width: 200px; /* Ajuste o tamanho conforme necessário */
+            height: auto;
         }
 
         /* Banner principal */
         .banner {
-            background-image: url('://source.unsplash.com/1600x900/?burger');
+            background-image: url('https://source.unsplash.com/1600x900/?burger');
             background-size: cover;
             background-position: center;
             height: 60vh;
@@ -152,12 +160,8 @@
     <!-- Cabeçalho -->
     <header>
         <h1>
-            <img src="img/logo haven.png" alt="logo haven" style="width: 200px;height:100px;">
-        
-            Haven Burger
-
-
-
+            <img src="imagens/logo.png" alt="Logo da Hamburgueria">
+            Hamburgueria Gourmet
         </h1>
     </header>
 
@@ -201,3 +205,4 @@
 
 </body>
 </html>
+
