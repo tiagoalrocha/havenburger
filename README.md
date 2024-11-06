@@ -161,7 +161,7 @@
     <header>
         <h1>
             <img src="logo haven.png" alt="Logo da Hamburgueria">
-            Hamburgueria Gourmet
+            Haven Burger
         </h1>
     </header>
 
@@ -173,7 +173,7 @@
     <!-- Seção de Apresentação -->
     <section class="presentation container">
         <h2>Sobre a Franquia</h2>
-        <p>Se você é apaixonado por hambúrgueres e quer levar essa experiência para sua cidade, junte-se à Hamburgueria Gourmet e faça parte de uma rede de franquias de sucesso. Oferecemos suporte completo para que você tenha uma operação lucrativa e se destaque no mercado.</p>
+        <p>Se você é apaixonado por hambúrgueres e quer levar essa experiência para sua cidade, junte-se à Haven Burger e faça parte de uma rede de franquias de sucesso. Oferecemos suporte completo para que você tenha uma operação lucrativa e se destaque no mercado.</p>
     </section>
 
     <!-- Benefícios da Franquia -->
