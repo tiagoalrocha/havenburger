@@ -160,7 +160,7 @@
     <!-- Cabeçalho -->
     <header>
         <h1>
-            <img src="imagens/logo.png" alt="Logo da Hamburgueria">
+            <img src="logo haven.png" alt="Logo da Hamburgueria">
             Hamburgueria Gourmet
         </h1>
     </header>
